@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Hello thanks for checking my project.
+
+Built using React and Unsplash API, I have created infinite scroll feature so the pictures never end!
+
+live: https://ecstatic-lumiere-eb2148.netlify.app/
+
 
 ## Available Scripts
 
