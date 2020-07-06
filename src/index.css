@@ -1,0 +1,17 @@
+body{
+  background-color: #393e46;
+}
+.search-bar{
+  background-color: #f0a500;
+}
+.display-3{
+  padding-left: 40%;
+  color: #cf7500;
+  border-bottom: #f0a500 solid 2px;
+}
+
+.btn-styles{
+  background-color: #cf7500;
+    margin-top: 15px;
+    margin-left: 41%;
+}
